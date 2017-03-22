@@ -18,7 +18,7 @@ $(document).on('deviceready', function() {
 	}, false); 
 	
 	document.addEventListener('touchstart', function(e) {
-		alert("Clicat") ;
+		//alert("Clicat") ;
 	});	
 	
 	document.addEventListener('touchmove', function(e) {
