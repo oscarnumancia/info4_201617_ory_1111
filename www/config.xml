@@ -2,22 +2,22 @@
     
 <widget xmlns   = "http://www.w3.org/ns/widgets"
         xmlns:gap   = "http://phonegap.com/ns/1.0"
-        id          = "cat.numancia.pong_sergi_curtu"
-        versionCode = "3" 
-        version     = "0.0.03" >
+        id          = "cat.numancia.pong_oscar_roman"
+        versionCode = "4" 
+        version     = "0.0.04" >
 	
 	<!-- versionCode is optional and Android only -->
 
 	
 
-   <name>Pong SCB</name>
+   <name>PONG ORY</name>
 
    <description>
        Un pong fet per alumnes de 4t del Numància
     </description>
 
-    <author href="https://numancia.cat/intranet" email="sergi.curtu@numancia.cat">
-       Sergi Curtu
+    <author href="https://numancia.cat/intranet" email="oscar.roman@numancia.cat">
+       Oscar Roman
     </author>
 
 	<content src="index.html"/>
